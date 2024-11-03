@@ -12,3 +12,12 @@ Foundry consists of:
 ## This is an Open Source!
 
 **First github repository, marks the first steps of a long journey**
+
+## About
+
+**Project i made using fundamentals of Foundry and solidity, some advanced tools have been used too but the hardest are yet to come.**
+
+## Stay in touch for more upcoming repos!
+           - Snow
+
+
