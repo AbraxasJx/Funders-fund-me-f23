@@ -16,8 +16,8 @@ Foundry consists of:
 ## About
 
 **Project i made using fundamentals of Foundry and solidity, some advanced tools have been used too but the hardest are yet to come.**
+stay updated for more upcoming repos! - Snow.
 
-## Stay in touch for more upcoming repos!
-           - Snow
+
 
 
